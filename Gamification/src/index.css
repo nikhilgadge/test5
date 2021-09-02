@@ -1,0 +1,22 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+p,
+span {
+  font-size: 12px;
+}
+
+.round-corner {
+  border-radius: 5px;
+}
+
+body {
+  background-color: lightgray;
+}
